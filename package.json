@@ -11,7 +11,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://miltonpalmeira.github.io/food-order-app",
+  "homepage": "https://miltonpalmeira.github.io/React-Food-Order-App/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
